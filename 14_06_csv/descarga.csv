@@ -1,0 +1,58 @@
+nombre,asignatura,promedio,asistencia,estado
+Juan,Matemáticas,13.433333333333334,75,Aprobado
+María,Ciencias,12.166666666666666,67,Aprobado
+Pedro,Inglés,14.766666666666666,80,Aprobado
+Ana,Historia,10.9,55,Reprobado
+Luis,Geografía,13.866666666666665,72,Aprobado
+Sofía,Arte,12.433333333333334,85,Aprobado
+Carlos,Biología,14.6,62,Aprobado
+Laura,Química,14.766666666666666,78,Aprobado
+Andrés,Biología,10.9,50,Reprobado
+Valeria,Educación Física,13.866666666666665,69,Aprobado
+Javier,Literatura,12.433333333333334,77,Aprobado
+Isabel,Economía,14.6,61,Aprobado
+Daniel,Informática,12.166666666666666,84,Aprobado
+Marta,Sociología,14.766666666666666,56,Reprobado
+Roberto,Psicología,10.9,79,Aprobado
+Lucía,Dibujo Técnico,13.866666666666665,63,Aprobado
+Gabriel,Música,12.433333333333334,71,Aprobado
+Alejandra,Religión,14.6,88,Aprobado
+Diego,Filosofía,10.9,58,Reprobado
+Carolina,Geometría,12.166666666666666,46,Reprobado
+Fernando,Biología,14.766666666666666,70,Aprobado
+Camila,Inglés Avanzado,12.433333333333334,83,Aprobado
+Mateo,Matemáticas Aplicadas,14.6,75,Aprobado
+Sara,Ciencias Ambientales,12.166666666666666,54,Reprobado
+Nicolás,Historia del Arte,14.766666666666666,66,Aprobado
+Valentina,Geografía Humana,10.9,90,Aprobado
+Juanita,Arquitectura,13.866666666666665,59,Reprobado
+Antonio,Escultura,12.433333333333334,74,Aprobado
+Adriana,Pintura,14.6,57,Reprobado
+Ricardo,Danza,10.9,86,Aprobado
+Paula,Teatro,13.866666666666665,68,Aprobado
+Martín,Cine,12.433333333333334,52,Reprobado
+Victoria,Televisión,14.6,73,Aprobado
+Manuel,Radio,10.9,87,Aprobado
+Julia,Periodismo,14.766666666666666,60,Aprobado
+Hugo,Publicidad,12.433333333333334,81,Aprobado
+Ana María,Marketing,14.6,64,Aprobado
+Ernesto,Estadística,10.9,89,Aprobado
+Bárbara,Finanzas,13.866666666666665,65,Aprobado
+Arturo,Contabilidad,12.433333333333334,76,Aprobado
+Lucas,Economía Internacional,14.6,53,Reprobado
+Renata,Relaciones Internacionales,10.9,72,Aprobado
+Ismael,Cooperación Internacional,13.866666666666665,82,Aprobado
+Alicia,Derecho Internacional,12.433333333333334,47,Reprobado
+Gonzalo,Derechos Humanos,14.6,79,Aprobado
+Lorena,Arbitraje,10.9,55,Reprobado
+Agustín,Medicina,14.766666666666666,68,Aprobado
+Julieta,Pediatría,12.433333333333334,71,Aprobado
+Camilo,Cardiología,14.6,50,Reprobado
+Valeria,Neurología,10.9,87,Aprobado
+Samuel,Geriatría,13.866666666666665,66,Aprobado
+Montserrat,Psiquiatría,12.433333333333334,83,Aprobado
+Diego,Farmacología,14.6,57,Reprobado
+Sofía,Biomedicina,10.9,80,Aprobado
+Esteban,Bioquímica,14.766666666666666,74,Aprobado
+Victoria,Biotecnología,12.433333333333334,69,Aprobado
+Roberto,Ingeniería Genética,14.6,56,Reprobado

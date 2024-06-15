@@ -8,6 +8,7 @@ with open('estudiantes.csv', 'r', newline='', encoding='utf-8') as archivo:
     suma = 0
     promedio_alto = 0
 
+    #promedio de asistencia y nota más alta
     for fila in lista_datos:
         if (fila[6] == 'asistencia_final'):
             continue
