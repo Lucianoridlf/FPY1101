@@ -1,0 +1,58 @@
+nombre,apellido,asignatura,nota1,nota2,nota3,asistencia_final
+Juan,Perez,Matemáticas,5.5,6.0,5.8,75
+María,Gómez,Ciencias,5.0,5.5,5.0,67
+Pedro,López,Inglés,6.5,6.0,6.8,80
+Ana,Rodríguez,Historia,4.5,5.0,4.2,55
+Luis,Martínez,Geografía,6.0,5.7,6.5,72
+Sofía,Hernández,Arte,5.5,5.0,5.8,85
+Carlos,Ramírez,Biología,6.0,6.5,6.3,62
+Laura,Díaz,Química,6.5,6.0,6.8,78
+Andrés,Torres,Física,4.5,5.0,4.2,50
+Valeria,Castro,Educación Física,6.0,5.7,6.5,69
+Javier,Ruiz,Literatura,5.5,5.0,5.8,77
+Isabel,Molina,Economía,6.0,6.5,6.3,61
+Daniel,Sánchez,Informática,5.0,5.5,5.0,84
+Marta,Navarro,Sociología,6.5,6.0,6.8,56
+Roberto,García,Psicología,4.5,5.0,4.2,79
+Lucía,Rojas,Dibujo Técnico,6.0,5.7,6.5,63
+Gabriel,Sosa,Música,5.5,5.0,5.8,71
+Alejandra,Morales,Religión,6.0,6.5,6.3,88
+Diego,Paz,Filosofía,4.5,5.0,4.2,58
+Carolina,Rodríguez,Geometría,5.0,5.5,5.0,46
+Fernando,Chávez,Programación,6.5,6.0,6.8,70
+Camila,Flores,Inglés Avanzado,5.5,5.0,5.8,83
+Mateo,Rivera,Matemáticas Aplicadas,6.0,6.5,6.3,75
+Sara,Juárez,Ciencias Ambientales,5.0,5.5,5.0,54
+Nicolás,Góngora,Historia del Arte,6.5,6.0,6.8,66
+Valentina,Silva,Geografía Humana,4.5,5.0,4.2,90
+Juanita,Romero,Arquitectura,6.0,5.7,6.5,59
+Antonio,Santana,Escultura,5.5,5.0,5.8,74
+Adriana,Vargas,Pintura,6.0,6.5,6.3,57
+Ricardo,Mendoza,Danza,4.5,5.0,4.2,86
+Paula,Herrera,Teatro,6.0,5.7,6.5,68
+Martín,Peralta,Cine,5.5,5.0,5.8,52
+Victoria,Guzmán,Televisión,6.0,6.5,6.3,73
+Manuel,Cabrera,Radio,4.5,5.0,4.2,87
+Julia,Serrano,Periodismo,6.5,6.0,6.8,60
+Hugo,Reyes,Publicidad,5.5,5.0,5.8,81
+Ana María,Flores,Marketing,6.0,6.5,6.3,64
+Ernesto,Sánchez,Estadística,4.5,5.0,4.2,89
+Bárbara,Martínez,Finanzas,6.0,5.7,6.5,65
+Arturo,Pérez,Contabilidad,5.5,5.0,5.8,76
+Lucas,Gómez,Economía Internacional,6.0,6.5,6.3,53
+Renata,Rivero,Relaciones Internacionales,4.5,5.0,4.2,72
+Ismael,Rodríguez,Cooperación Internacional,6.0,5.7,6.5,82
+Alicia,Soto,Derecho Internacional,5.5,5.0,5.8,47
+Gonzalo,Ortega,Derechos Humanos,6.0,6.5,6.3,79
+Lorena,Molina,Arbitraje,4.5,5.0,4.2,55
+Agustín,Fernández,Medicina,6.5,6.0,6.8,68
+Julieta,López,Pediatría,5.5,5.0,5.8,71
+Camilo,Suárez,Cardiología,6.0,6.5,6.3,50
+Valeria,Navarro,Neurología,4.5,5.0,4.2,87
+Samuel,García,Geriatría,6.0,5.7,6.5,66
+Montserrat,Rojas,Psiquiatría,5.5,5.0,5.8,83
+Diego,Mendoza,Farmacología,6.0,6.5,6.3,57
+Sofía,Álvarez,Biomedicina,4.5,5.0,4.2,80
+Esteban,Martínez,Bioquímica,6.5,6.0,6.8,74
+Victoria,Herrera,Biotecnología,5.5,5.0,5.8,69
+Roberto,Jiménez,Ingeniería Genética,6.0,6.5,6.3,56

@@ -1,0 +1,361 @@
+rut,nombre,apellido,curso,asignatura,nota1,nota2,nota3,asistencia
+070967879,Sofia,Perez,primer anio,Introduccion al Cloud Computing,5.0,4.1,3.4,68
+670403817,Ana,Perez,primer anio,Introduccion al Cloud Computing,2.4,5.1,2.8,80
+170830358,Carlos,Sanchez,primer anio,Introduccion al Cloud Computing,6.5,4.2,4.6,76
+168507913,Jorge,Ramirez,primer anio,Introduccion al Cloud Computing,2.4,6.0,2.5,64
+066576959,Maria,Ramirez,primer anio,Introduccion al Cloud Computing,5.2,2.4,3.0,42
+647127575,Luis,Martinez,primer anio,Introduccion al Cloud Computing,2.4,2.6,5.8,81
+730898755,Luis,Perez,primer anio,Introduccion al Cloud Computing,5.2,4.3,1.7,78
+807575959,Ana,Ramirez,primer anio,Introduccion al Cloud Computing,1.9,1.2,2.2,85
+609650373,Carlos,Gonzalez,primer anio,Introduccion al Cloud Computing,1.7,5.2,4.1,62
+781005697,Carlos,Rodriguez,primer anio,Introduccion al Cloud Computing,1.6,4.1,2.1,62
+407945514,Carlos,Lopez,primer anio,Introduccion al Cloud Computing,4.5,4.3,2.7,64
+262785103,Maria,Gonzalez,primer anio,Introduccion al Cloud Computing,2.5,4.9,5.5,66
+821953195,Juan,Garcia,primer anio,Introduccion al Cloud Computing,4.8,2.6,6.7,41
+284309767,Jorge,Gonzalez,primer anio,Introduccion al Cloud Computing,3.0,5.1,3.1,48
+070762882,Juan,Gonzalez,primer anio,Introduccion al Cloud Computing,2.9,6.4,6.6,67
+949663290,Carlos,Lopez,primer anio,Introduccion al Cloud Computing,4.7,1.5,2.0,87
+138804432,Jorge,Vazquez,primer anio,Introduccion al Cloud Computing,2.7,1.4,3.0,89
+736944755,Ana,Rodriguez,primer anio,Introduccion al Cloud Computing,6.1,5.5,1.7,81
+012541103,Maria,Sanchez,primer anio,Introduccion al Cloud Computing,3.2,4.4,2.0,82
+345736257,Ana,Ramirez,primer anio,Introduccion al Cloud Computing,1.9,1.8,4.5,44
+891756711,Juan,Garcia,primer anio,Fundamentos de Programacion,5.6,4.1,6.7,66
+829015477,Maria,Garcia,primer anio,Fundamentos de Programacion,2.6,4.9,5.6,52
+077683773,Lucia,Martinez,primer anio,Fundamentos de Programacion,2.6,4.3,5.0,54
+219939666,Laura,Vazquez,primer anio,Fundamentos de Programacion,3.9,3.4,5.4,87
+124831236,Maria,Martinez,primer anio,Fundamentos de Programacion,4.0,3.6,1.8,71
+536889999,Maria,Garcia,primer anio,Fundamentos de Programacion,5.2,5.3,4.4,71
+573810768,Carlos,Sanchez,primer anio,Fundamentos de Programacion,6.8,6.4,4.8,55
+456062281,Ana,Ramirez,primer anio,Fundamentos de Programacion,2.1,6.4,3.9,78
+877514123,Lucia,Torres,primer anio,Fundamentos de Programacion,5.2,5.9,6.5,79
+218686776,Laura,Martinez,primer anio,Fundamentos de Programacion,6.6,4.9,3.7,65
+684124195,Carlos,Sanchez,primer anio,Fundamentos de Programacion,5.1,6.0,1.6,90
+323232848,Jorge,Lopez,primer anio,Fundamentos de Programacion,6.2,3.5,4.8,52
+536351430,Sofia,Rodriguez,primer anio,Fundamentos de Programacion,2.1,5.0,3.2,46
+065897362,Luis,Torres,primer anio,Fundamentos de Programacion,1.8,6.0,3.0,69
+713987031,Jorge,Rodriguez,primer anio,Fundamentos de Programacion,1.1,2.3,1.9,51
+493404375,Jorge,Vazquez,primer anio,Fundamentos de Programacion,5.4,1.8,6.0,81
+640917994,Carlos,Perez,primer anio,Fundamentos de Programacion,2.4,1.7,3.5,85
+635269016,Jorge,Ramirez,primer anio,Fundamentos de Programacion,5.0,5.4,3.2,68
+974332670,Laura,Vazquez,primer anio,Fundamentos de Programacion,3.9,4.5,5.1,45
+670115116,Juan,Vazquez,primer anio,Fundamentos de Programacion,6.7,3.5,3.6,77
+428289040,Pedro,Rodriguez,primer anio,Innovacion,1.1,3.4,6.4,83
+484363847,Maria,Rodriguez,primer anio,Innovacion,6.3,2.9,1.3,76
+639008726,Juan,Torres,primer anio,Innovacion,1.7,2.6,2.8,47
+553220373,Luis,Rodriguez,primer anio,Innovacion,6.1,2.7,1.9,45
+000097809,Carlos,Perez,primer anio,Innovacion,5.6,5.6,1.3,53
+921737437,Carlos,Rodriguez,primer anio,Innovacion,3.4,1.0,3.6,49
+277500020,Ana,Torres,primer anio,Innovacion,3.0,2.5,6.1,73
+245800546,Jorge,Gonzalez,primer anio,Innovacion,2.6,2.5,5.6,63
+241743427,Laura,Rodriguez,primer anio,Innovacion,6.9,4.4,3.2,57
+490410805,Jorge,Sanchez,primer anio,Innovacion,3.3,4.1,3.5,77
+875918715,Sofia,Perez,primer anio,Innovacion,6.7,6.8,1.5,65
+209519815,Juan,Martinez,primer anio,Innovacion,3.6,6.4,4.9,61
+890575237,Maria,Lopez,primer anio,Innovacion,6.1,4.1,2.7,86
+324019315,Pedro,Martinez,primer anio,Innovacion,3.3,3.9,4.2,69
+894981931,Luis,Ramirez,primer anio,Innovacion,5.6,5.2,1.9,68
+517706207,Lucia,Garcia,primer anio,Innovacion,4.2,1.7,1.2,59
+643326426,Luis,Rodriguez,primer anio,Innovacion,1.5,4.6,6.8,42
+093115534,Ana,Martinez,primer anio,Innovacion,5.6,3.7,4.0,53
+448575313,Carlos,Ramirez,primer anio,Innovacion,4.3,4.3,4.3,66
+093603967,Jorge,Rodriguez,primer anio,Innovacion,2.0,1.6,6.8,51
+332002843,Luis,Garcia,segundo anio,Integraccion de plataformas,2.8,6.3,1.4,70
+723495703,Maria,Garcia,segundo anio,Integraccion de plataformas,4.3,1.6,4.4,62
+782303922,Sofia,Sanchez,segundo anio,Integraccion de plataformas,2.6,3.6,4.9,81
+922901928,Luis,Vazquez,segundo anio,Integraccion de plataformas,4.2,3.8,5.2,73
+396387552,Laura,Perez,segundo anio,Integraccion de plataformas,2.3,2.9,6.0,68
+102083235,Pedro,Gonzalez,segundo anio,Integraccion de plataformas,5.7,6.7,4.3,70
+646523130,Jorge,Lopez,segundo anio,Integraccion de plataformas,5.9,4.8,5.5,62
+752794770,Maria,Martinez,segundo anio,Integraccion de plataformas,5.3,6.9,5.0,49
+987907389,Juan,Lopez,segundo anio,Integraccion de plataformas,5.1,4.0,5.6,48
+470747787,Carlos,Martinez,segundo anio,Integraccion de plataformas,2.4,3.6,4.1,41
+934001489,Ana,Lopez,segundo anio,Integraccion de plataformas,6.2,6.1,6.4,53
+578814619,Jorge,Perez,segundo anio,Integraccion de plataformas,4.7,2.8,1.3,66
+061221522,Ana,Rodriguez,segundo anio,Integraccion de plataformas,1.5,5.4,1.3,51
+490889734,Juan,Sanchez,segundo anio,Integraccion de plataformas,6.6,4.8,5.1,52
+347060153,Sofia,Sanchez,segundo anio,Integraccion de plataformas,1.6,5.3,3.1,51
+297727004,Ana,Rodriguez,segundo anio,Integraccion de plataformas,6.9,6.8,6.1,40
+762600165,Jorge,Lopez,segundo anio,Integraccion de plataformas,1.4,5.0,6.8,83
+796752035,Pedro,Rodriguez,segundo anio,Integraccion de plataformas,6.0,2.1,2.8,56
+379357505,Jorge,Sanchez,segundo anio,Integraccion de plataformas,4.6,5.9,3.6,57
+874922337,Carlos,Perez,segundo anio,Integraccion de plataformas,3.3,2.6,3.4,80
+262167021,Juan,Perez,segundo anio,calculo integral,1.2,3.3,5.8,42
+408891194,Ana,Perez,segundo anio,calculo integral,3.9,5.3,3.7,82
+164086913,Lucia,Perez,segundo anio,calculo integral,2.0,1.0,5.0,52
+501990562,Maria,Ramirez,segundo anio,calculo integral,3.8,4.3,4.4,82
+706117938,Lucia,Vazquez,segundo anio,calculo integral,6.8,5.0,5.5,52
+218930288,Juan,Ramirez,segundo anio,calculo integral,4.4,4.7,2.0,76
+499841507,Lucia,Ramirez,segundo anio,calculo integral,4.7,3.6,3.4,52
+973480322,Ana,Rodriguez,segundo anio,calculo integral,2.0,3.0,2.4,76
+633863611,Laura,Garcia,segundo anio,calculo integral,1.5,1.8,6.6,77
+144336495,Juan,Gonzalez,segundo anio,calculo integral,1.9,5.0,5.7,83
+787774405,Pedro,Lopez,segundo anio,calculo integral,1.2,3.2,1.1,78
+024463589,Jorge,Garcia,segundo anio,calculo integral,3.1,6.9,3.1,85
+077696103,Maria,Gonzalez,segundo anio,calculo integral,5.3,2.9,2.5,43
+028008012,Luis,Gonzalez,segundo anio,calculo integral,3.6,6.1,2.4,73
+787691929,Carlos,Gonzalez,segundo anio,calculo integral,2.2,4.2,3.2,55
+635048950,Carlos,Gonzalez,segundo anio,calculo integral,4.7,3.3,2.4,47
+084550862,Maria,Martinez,segundo anio,calculo integral,5.7,6.4,4.9,82
+087328628,Lucia,Rodriguez,segundo anio,calculo integral,5.3,6.2,2.8,55
+529388515,Sofia,Perez,segundo anio,calculo integral,6.0,1.4,1.4,81
+391061764,Ana,Garcia,segundo anio,calculo integral,1.6,2.6,1.0,70
+737621970,Sofia,Rodriguez,segundo anio,algebra lineal,6.4,1.2,6.9,60
+072400786,Pedro,Vazquez,segundo anio,algebra lineal,5.0,3.7,1.5,73
+346237560,Laura,Rodriguez,segundo anio,algebra lineal,1.6,1.5,3.5,56
+720898674,Luis,Lopez,segundo anio,algebra lineal,4.9,4.8,2.7,56
+063861553,Sofia,Rodriguez,segundo anio,algebra lineal,2.4,6.0,2.0,79
+638948725,Carlos,Garcia,segundo anio,algebra lineal,6.7,1.5,4.6,62
+950886338,Lucia,Gonzalez,segundo anio,algebra lineal,2.2,3.6,2.8,72
+339896999,Maria,Vazquez,segundo anio,algebra lineal,2.3,5.6,3.8,53
+792599962,Luis,Rodriguez,segundo anio,algebra lineal,2.5,2.3,6.9,85
+752712603,Pedro,Sanchez,segundo anio,algebra lineal,1.4,6.2,1.9,54
+667374560,Luis,Rodriguez,segundo anio,algebra lineal,3.0,7.0,3.3,54
+386783207,Ana,Gonzalez,segundo anio,algebra lineal,6.2,2.1,3.2,49
+104608691,Lucia,Martinez,segundo anio,algebra lineal,6.5,2.2,4.5,49
+715773592,Ana,Ramirez,segundo anio,algebra lineal,4.4,1.1,4.0,81
+764692630,Laura,Martinez,segundo anio,algebra lineal,5.9,2.3,4.0,85
+990751808,Maria,Sanchez,segundo anio,algebra lineal,2.0,3.2,4.2,90
+387034024,Carlos,Ramirez,segundo anio,algebra lineal,3.8,2.1,3.9,82
+962921274,Jorge,Vazquez,segundo anio,algebra lineal,6.4,4.9,4.5,68
+785444176,Luis,Martinez,segundo anio,algebra lineal,2.1,4.5,1.2,67
+029754127,Sofia,Lopez,segundo anio,algebra lineal,6.0,3.9,1.0,60
+341545674,Jorge,Perez,tercer anio,Estructura de datos,4.0,1.3,4.7,84
+386347733,Laura,Rodriguez,tercer anio,Estructura de datos,2.5,4.0,2.2,56
+462612924,Jorge,Sanchez,tercer anio,Estructura de datos,2.1,1.3,4.6,43
+056721926,Jorge,Sanchez,tercer anio,Estructura de datos,4.4,1.0,5.6,58
+990335061,Jorge,Lopez,tercer anio,Estructura de datos,1.7,6.8,4.3,45
+088871504,Ana,Rodriguez,tercer anio,Estructura de datos,3.2,2.0,5.4,75
+457152636,Juan,Lopez,tercer anio,Estructura de datos,4.4,3.4,6.1,59
+376484069,Juan,Vazquez,tercer anio,Estructura de datos,1.1,4.8,7.0,79
+621992303,Juan,Torres,tercer anio,Estructura de datos,2.2,1.4,1.1,59
+576385963,Juan,Garcia,tercer anio,Estructura de datos,6.0,3.7,4.7,75
+512148808,Lucia,Vazquez,tercer anio,Estructura de datos,4.2,2.7,2.4,48
+151283871,Sofia,Rodriguez,tercer anio,Estructura de datos,1.6,6.6,1.5,44
+773189693,Juan,Lopez,tercer anio,Estructura de datos,1.2,2.9,1.9,83
+048132837,Pedro,Garcia,tercer anio,Estructura de datos,3.8,4.2,3.3,79
+899333056,Pedro,Martinez,tercer anio,Estructura de datos,5.7,4.1,2.7,74
+161723506,Pedro,Garcia,tercer anio,Estructura de datos,2.6,4.1,6.9,66
+024441526,Laura,Perez,tercer anio,Estructura de datos,6.9,4.8,5.6,44
+754583068,Maria,Martinez,tercer anio,Estructura de datos,4.5,5.2,3.2,76
+134819841,Sofia,Torres,tercer anio,Estructura de datos,3.3,3.8,6.2,57
+569993679,Laura,Sanchez,tercer anio,Estructura de datos,2.0,6.1,2.0,54
+820726056,Jorge,Gonzalez,tercer anio,Automatas,6.8,6.7,4.6,67
+663761423,Ana,Vazquez,tercer anio,Automatas,5.6,5.8,6.2,73
+007265873,Pedro,Torres,tercer anio,Automatas,2.6,2.3,2.3,54
+159774594,Sofia,Rodriguez,tercer anio,Automatas,5.7,4.5,2.7,44
+286041157,Juan,Sanchez,tercer anio,Automatas,1.2,3.7,5.5,55
+762344208,Pedro,Lopez,tercer anio,Automatas,4.7,2.5,6.7,82
+728296363,Laura,Ramirez,tercer anio,Automatas,1.6,4.7,1.6,85
+325865381,Laura,Lopez,tercer anio,Automatas,6.7,1.9,2.6,58
+782792951,Juan,Gonzalez,tercer anio,Automatas,6.8,6.3,1.0,45
+811327148,Sofia,Perez,tercer anio,Automatas,4.3,3.6,5.7,69
+047782786,Ana,Vazquez,tercer anio,Automatas,2.5,3.5,1.4,46
+689835800,Lucia,Martinez,tercer anio,Automatas,1.4,4.5,1.1,48
+101989080,Ana,Vazquez,tercer anio,Automatas,4.7,5.9,2.1,42
+497821410,Sofia,Garcia,tercer anio,Automatas,3.4,1.2,5.0,86
+555751868,Lucia,Perez,tercer anio,Automatas,4.6,6.2,5.7,54
+108481368,Juan,Vazquez,tercer anio,Automatas,4.5,1.7,2.9,73
+254316002,Luis,Torres,tercer anio,Automatas,3.4,4.8,5.2,73
+465249794,Laura,Vazquez,tercer anio,Automatas,4.6,2.4,3.6,77
+927481825,Juan,Rodriguez,tercer anio,Automatas,4.2,4.0,4.3,56
+217709234,Luis,Martinez,tercer anio,Automatas,2.5,1.1,2.7,71
+543384313,Ana,Vazquez,tercer anio,programacion web,4.8,6.1,3.0,68
+175151865,Carlos,Garcia,tercer anio,programacion web,5.2,3.6,1.2,65
+364815776,Juan,Garcia,tercer anio,programacion web,6.7,2.5,3.8,52
+619695354,Carlos,Torres,tercer anio,programacion web,4.8,3.2,2.7,71
+733577084,Jorge,Sanchez,tercer anio,programacion web,2.3,5.0,6.8,83
+865477916,Luis,Garcia,tercer anio,programacion web,6.7,5.8,5.8,54
+585885654,Sofia,Rodriguez,tercer anio,programacion web,4.4,2.2,4.7,90
+064595475,Maria,Torres,tercer anio,programacion web,3.9,3.1,2.8,58
+966972916,Laura,Rodriguez,tercer anio,programacion web,4.8,6.6,1.8,80
+563059973,Sofia,Garcia,tercer anio,programacion web,2.0,1.9,3.9,78
+482746025,Sofia,Sanchez,tercer anio,programacion web,6.7,6.1,1.4,52
+584209846,Maria,Garcia,tercer anio,programacion web,1.1,1.6,5.1,61
+239012944,Juan,Martinez,tercer anio,programacion web,2.7,4.1,3.6,80
+949967318,Juan,Gonzalez,tercer anio,programacion web,4.9,6.2,5.9,80
+645469764,Sofia,Perez,tercer anio,programacion web,2.6,1.7,2.4,80
+233611372,Pedro,Rodriguez,tercer anio,programacion web,2.9,3.6,1.9,89
+790768280,Juan,Lopez,tercer anio,programacion web,1.6,1.0,6.9,82
+721857584,Pedro,Torres,tercer anio,programacion web,6.0,4.2,1.9,47
+828774202,Pedro,Vazquez,tercer anio,programacion web,1.1,4.5,5.4,48
+016076064,Juan,Vazquez,tercer anio,programacion web,1.1,6.4,3.5,87
+392426416,Juan,Perez,cuarto anio,simulacion,6.0,6.3,5.6,78
+335154091,Maria,Garcia,cuarto anio,simulacion,1.7,3.4,1.7,70
+664606792,Jorge,Perez,cuarto anio,simulacion,5.7,4.9,5.4,71
+106554794,Carlos,Gonzalez,cuarto anio,simulacion,2.8,5.2,1.9,88
+165805934,Ana,Ramirez,cuarto anio,simulacion,5.2,5.4,5.9,72
+208619420,Laura,Vazquez,cuarto anio,simulacion,4.6,5.4,5.0,61
+205621382,Jorge,Garcia,cuarto anio,simulacion,3.3,6.4,5.7,64
+308002880,Juan,Lopez,cuarto anio,simulacion,2.4,1.7,6.8,58
+357450527,Sofia,Vazquez,cuarto anio,simulacion,6.2,3.2,5.5,64
+384668447,Laura,Torres,cuarto anio,simulacion,1.7,5.1,2.6,42
+327958066,Lucia,Garcia,cuarto anio,simulacion,4.3,5.3,6.3,67
+358103825,Ana,Lopez,cuarto anio,simulacion,1.4,3.0,4.5,75
+305306359,Jorge,Gonzalez,cuarto anio,simulacion,4.0,3.2,5.2,53
+868742657,Sofia,Garcia,cuarto anio,simulacion,2.4,5.1,5.7,75
+663855463,Maria,Perez,cuarto anio,simulacion,4.0,4.3,1.3,58
+249597308,Jorge,Sanchez,cuarto anio,simulacion,4.3,6.8,5.5,50
+444801245,Pedro,Ramirez,cuarto anio,simulacion,5.1,4.6,2.1,87
+382890916,Juan,Ramirez,cuarto anio,simulacion,4.8,1.8,6.5,68
+562155061,Carlos,Gonzalez,cuarto anio,simulacion,6.2,3.7,3.2,63
+938292837,Ana,Lopez,cuarto anio,simulacion,3.3,6.7,6.2,54
+563222240,Lucia,Martinez,cuarto anio,Base de datos aplicada,6.7,4.4,2.6,68
+254208758,Maria,Sanchez,cuarto anio,Base de datos aplicada,4.2,5.7,4.7,53
+412128081,Ana,Lopez,cuarto anio,Base de datos aplicada,4.7,2.3,3.4,70
+920015504,Lucia,Torres,cuarto anio,Base de datos aplicada,4.6,3.7,6.7,50
+036702116,Juan,Rodriguez,cuarto anio,Base de datos aplicada,2.5,1.6,5.5,46
+460148986,Sofia,Torres,cuarto anio,Base de datos aplicada,1.5,4.7,6.1,80
+555429105,Jorge,Lopez,cuarto anio,Base de datos aplicada,6.4,5.0,3.0,67
+593937891,Carlos,Vazquez,cuarto anio,Base de datos aplicada,5.5,3.5,5.3,57
+700268364,Luis,Gonzalez,cuarto anio,Base de datos aplicada,1.5,6.3,6.4,51
+560421331,Sofia,Rodriguez,cuarto anio,Base de datos aplicada,2.5,2.7,5.7,73
+131295890,Luis,Rodriguez,cuarto anio,Base de datos aplicada,4.1,5.9,3.3,43
+110253022,Laura,Perez,cuarto anio,Base de datos aplicada,6.5,5.7,5.4,80
+558384860,Juan,Ramirez,cuarto anio,Base de datos aplicada,3.9,4.7,3.8,88
+540097166,Ana,Torres,cuarto anio,Base de datos aplicada,1.4,6.7,6.7,83
+372738545,Ana,Sanchez,cuarto anio,Base de datos aplicada,2.5,2.8,5.5,40
+764067162,Sofia,Martinez,cuarto anio,Base de datos aplicada,2.8,6.7,3.1,41
+668249731,Laura,Torres,cuarto anio,Base de datos aplicada,5.6,4.4,1.7,88
+525438320,Luis,Martinez,cuarto anio,Base de datos aplicada,4.3,4.1,1.5,58
+904779598,Sofia,Garcia,cuarto anio,Base de datos aplicada,3.4,1.3,4.1,52
+869427027,Sofia,Rodriguez,cuarto anio,Base de datos aplicada,5.5,5.9,1.5,75
+233183857,Pedro,Perez,cuarto anio,Redes y comunicaciones,2.7,2.9,1.5,89
+048943907,Lucia,Sanchez,cuarto anio,Redes y comunicaciones,2.4,6.5,5.1,65
+738454747,Lucia,Lopez,cuarto anio,Redes y comunicaciones,3.3,4.5,3.2,52
+538594090,Juan,Perez,cuarto anio,Redes y comunicaciones,4.6,5.6,3.3,66
+599289466,Lucia,Martinez,cuarto anio,Redes y comunicaciones,6.3,6.0,5.7,49
+679531174,Maria,Torres,cuarto anio,Redes y comunicaciones,2.2,3.9,5.3,79
+101959108,Maria,Gonzalez,cuarto anio,Redes y comunicaciones,6.8,6.1,1.4,64
+923469993,Juan,Torres,cuarto anio,Redes y comunicaciones,6.6,3.2,4.3,71
+532541512,Juan,Sanchez,cuarto anio,Redes y comunicaciones,6.3,5.2,5.2,45
+751097511,Juan,Rodriguez,cuarto anio,Redes y comunicaciones,4.3,2.6,1.4,44
+418024567,Jorge,Sanchez,cuarto anio,Redes y comunicaciones,4.0,2.9,2.2,59
+472529365,Carlos,Rodriguez,cuarto anio,Redes y comunicaciones,3.3,2.1,3.1,79
+595981882,Juan,Sanchez,cuarto anio,Redes y comunicaciones,2.0,2.5,2.7,52
+631975665,Laura,Martinez,cuarto anio,Redes y comunicaciones,6.8,2.2,1.9,90
+368715517,Jorge,Vazquez,cuarto anio,Redes y comunicaciones,4.9,5.3,6.2,81
+968648926,Ana,Rodriguez,cuarto anio,Redes y comunicaciones,5.7,2.3,2.9,53
+955298508,Sofia,Sanchez,cuarto anio,Redes y comunicaciones,2.8,1.5,4.4,81
+216909503,Ana,Gonzalez,cuarto anio,Redes y comunicaciones,3.2,1.3,6.7,82
+003289305,Juan,Martinez,cuarto anio,Redes y comunicaciones,6.7,3.7,4.8,81
+875592146,Luis,Lopez,cuarto anio,Redes y comunicaciones,3.5,1.9,6.3,44
+383741313,Juan,Lopez,quinto anio,Electromagnetismo,2.8,2.7,1.7,88
+073358495,Luis,Martinez,quinto anio,Electromagnetismo,3.6,5.2,2.0,63
+048846744,Luis,Sanchez,quinto anio,Electromagnetismo,4.5,1.3,1.7,83
+808880234,Ana,Vazquez,quinto anio,Electromagnetismo,4.2,5.6,2.0,89
+116452404,Maria,Garcia,quinto anio,Electromagnetismo,2.4,6.5,3.0,67
+280533665,Juan,Vazquez,quinto anio,Electromagnetismo,6.7,4.0,4.2,40
+827996733,Luis,Martinez,quinto anio,Electromagnetismo,4.9,1.4,6.8,75
+326126790,Laura,Lopez,quinto anio,Electromagnetismo,6.2,5.9,6.5,70
+555222644,Luis,Garcia,quinto anio,Electromagnetismo,4.8,3.1,3.1,83
+823520411,Juan,Vazquez,quinto anio,Electromagnetismo,6.9,6.7,5.4,62
+968454405,Lucia,Sanchez,quinto anio,Electromagnetismo,2.4,3.5,5.4,43
+502776317,Pedro,Gonzalez,quinto anio,Electromagnetismo,1.0,5.3,3.6,56
+859563887,Sofia,Vazquez,quinto anio,Electromagnetismo,3.6,5.8,5.4,81
+202931372,Jorge,Ramirez,quinto anio,Electromagnetismo,5.1,1.6,2.1,72
+195039776,Lucia,Lopez,quinto anio,Electromagnetismo,3.0,3.7,5.4,53
+862401267,Ana,Vazquez,quinto anio,Electromagnetismo,2.9,6.2,2.0,70
+346626347,Juan,Sanchez,quinto anio,Electromagnetismo,5.0,1.3,4.5,76
+480990023,Luis,Gonzalez,quinto anio,Electromagnetismo,3.9,1.5,1.6,63
+665470011,Maria,Lopez,quinto anio,Electromagnetismo,5.5,5.9,2.5,42
+432115131,Lucia,Lopez,quinto anio,Electromagnetismo,3.0,5.6,4.7,86
+459105095,Juan,Rodriguez,quinto anio,Inteligencia de negocio,4.9,3.1,1.7,43
+658045314,Carlos,Rodriguez,quinto anio,Inteligencia de negocio,6.2,2.8,1.9,85
+257874244,Laura,Gonzalez,quinto anio,Inteligencia de negocio,3.3,1.8,5.2,65
+488622167,Luis,Rodriguez,quinto anio,Inteligencia de negocio,3.6,1.7,1.2,75
+869483949,Carlos,Lopez,quinto anio,Inteligencia de negocio,5.8,5.0,6.7,88
+077164260,Ana,Rodriguez,quinto anio,Inteligencia de negocio,1.9,2.3,5.8,68
+241622220,Carlos,Vazquez,quinto anio,Inteligencia de negocio,3.2,1.5,3.6,81
+058226353,Jorge,Torres,quinto anio,Inteligencia de negocio,1.2,5.0,4.7,50
+754837530,Ana,Garcia,quinto anio,Inteligencia de negocio,1.7,3.1,1.2,84
+970293931,Juan,Perez,quinto anio,Inteligencia de negocio,3.3,6.6,4.3,49
+672638312,Maria,Ramirez,quinto anio,Inteligencia de negocio,4.1,3.2,5.4,45
+908237081,Lucia,Lopez,quinto anio,Inteligencia de negocio,6.0,4.5,5.6,41
+993264478,Maria,Garcia,quinto anio,Inteligencia de negocio,3.7,1.7,5.7,67
+489505402,Lucia,Lopez,quinto anio,Inteligencia de negocio,4.8,2.0,5.4,64
+269205738,Ana,Lopez,quinto anio,Inteligencia de negocio,6.0,3.9,3.4,86
+053402331,Pedro,Garcia,quinto anio,Inteligencia de negocio,4.1,4.8,6.2,44
+531488048,Pedro,Martinez,quinto anio,Inteligencia de negocio,1.7,3.7,2.3,74
+256320277,Juan,Rodriguez,quinto anio,Inteligencia de negocio,5.4,4.4,2.1,52
+233405396,Laura,Vazquez,quinto anio,Inteligencia de negocio,4.2,6.0,5.1,57
+851530123,Jorge,Vazquez,quinto anio,Inteligencia de negocio,1.7,4.7,2.7,61
+331585674,Juan,Martinez,quinto anio,big data,6.7,1.8,1.2,46
+373992344,Lucia,Torres,quinto anio,big data,1.6,5.3,6.6,57
+381714606,Juan,Sanchez,quinto anio,big data,3.3,1.9,4.0,77
+430938513,Lucia,Torres,quinto anio,big data,4.8,2.4,1.3,71
+650624786,Luis,Rodriguez,quinto anio,big data,2.2,1.1,4.2,78
+301267996,Jorge,Ramirez,quinto anio,big data,5.4,5.0,5.2,86
+019395606,Pedro,Vazquez,quinto anio,big data,3.4,2.0,4.1,44
+214169925,Jorge,Sanchez,quinto anio,big data,1.1,6.6,4.8,76
+002514290,Maria,Sanchez,quinto anio,big data,3.8,3.4,1.1,80
+719729473,Laura,Vazquez,quinto anio,big data,3.3,6.7,6.1,82
+394025911,Carlos,Martinez,quinto anio,big data,4.4,2.9,1.4,85
+043649931,Lucia,Perez,quinto anio,big data,1.9,1.0,2.3,67
+128218040,Laura,Garcia,quinto anio,big data,5.4,4.7,5.0,45
+307328471,Sofia,Vazquez,quinto anio,big data,6.3,3.7,3.5,63
+250559155,Carlos,Gonzalez,quinto anio,big data,2.8,2.0,4.7,88
+258003295,Sofia,Perez,quinto anio,big data,2.0,6.2,6.6,64
+863430943,Jorge,Lopez,quinto anio,big data,3.1,5.6,6.7,71
+228038572,Maria,Vazquez,quinto anio,big data,3.9,2.5,3.0,74
+054574428,Laura,Garcia,quinto anio,big data,6.3,4.1,3.9,80
+564067185,Luis,Sanchez,quinto anio,big data,1.8,5.6,6.3,89
+493838188,Pedro,Vazquez,quinto anio,mineria de datos,4.4,7.0,5.3,61
+913621229,Jorge,Garcia,quinto anio,mineria de datos,5.9,4.9,2.7,68
+428379381,Lucia,Ramirez,quinto anio,mineria de datos,5.6,6.9,2.5,75
+456298013,Ana,Martinez,quinto anio,mineria de datos,1.1,5.2,3.0,40
+056781276,Juan,Perez,quinto anio,mineria de datos,4.1,2.1,2.2,72
+916007000,Juan,Martinez,quinto anio,mineria de datos,6.4,2.2,3.8,74
+455830759,Ana,Torres,quinto anio,mineria de datos,5.1,2.5,6.5,82
+311069231,Pedro,Ramirez,quinto anio,mineria de datos,5.9,1.3,1.8,44
+893385000,Maria,Garcia,quinto anio,mineria de datos,4.6,1.6,4.9,88
+662752955,Juan,Garcia,quinto anio,mineria de datos,3.8,4.0,4.2,65
+098371020,Pedro,Sanchez,quinto anio,mineria de datos,6.4,1.3,3.7,69
+548219508,Laura,Gonzalez,quinto anio,mineria de datos,4.4,2.2,1.8,77
+245526972,Ana,Sanchez,quinto anio,mineria de datos,3.3,6.9,4.0,46
+008260731,Pedro,Ramirez,quinto anio,mineria de datos,5.1,6.3,5.6,62
+283539878,Carlos,Torres,quinto anio,mineria de datos,3.4,5.1,3.2,57
+092076222,Laura,Torres,quinto anio,mineria de datos,4.6,1.3,3.1,63
+683763301,Luis,Vazquez,quinto anio,mineria de datos,5.2,6.6,3.3,69
+075402560,Pedro,Torres,quinto anio,mineria de datos,6.9,6.9,6.6,59
+572783740,Juan,Martinez,quinto anio,mineria de datos,4.8,6.7,3.5,82
+492479569,Sofia,Rodriguez,quinto anio,mineria de datos,1.6,2.6,5.7,84
+763548347,Ana,Garcia,sexto anio,tesis,1.7,5.8,5.1,83
+344087372,Juan,Perez,sexto anio,tesis,2.6,1.2,6.1,74
+053363874,Pedro,Rodriguez,sexto anio,tesis,5.3,3.5,3.9,78
+850981289,Sofia,Sanchez,sexto anio,tesis,3.3,1.3,3.7,46
+757880557,Jorge,Perez,sexto anio,tesis,3.6,2.7,6.6,84
+174678688,Luis,Sanchez,sexto anio,tesis,3.4,5.0,6.8,49
+989575294,Ana,Rodriguez,sexto anio,tesis,4.9,5.9,4.4,77
+978178317,Luis,Sanchez,sexto anio,tesis,5.7,5.4,1.1,85
+509697433,Luis,Gonzalez,sexto anio,tesis,4.2,6.4,5.2,47
+999239827,Jorge,Vazquez,sexto anio,tesis,1.8,2.2,1.7,71
+673565396,Carlos,Ramirez,sexto anio,tesis,4.6,3.7,2.5,72
+011410908,Jorge,Perez,sexto anio,tesis,2.8,2.0,6.9,90
+458473690,Sofia,Martinez,sexto anio,tesis,6.7,3.2,6.5,43
+733436753,Pedro,Perez,sexto anio,tesis,1.3,2.8,1.3,52
+280369085,Carlos,Lopez,sexto anio,tesis,4.8,5.7,6.3,72
+967913286,Laura,Garcia,sexto anio,tesis,6.6,6.0,6.2,46
+331065552,Maria,Sanchez,sexto anio,tesis,2.6,2.3,5.3,41
+221064390,Juan,Torres,sexto anio,tesis,2.9,2.5,3.9,54
+339445185,Pedro,Perez,sexto anio,tesis,6.9,2.0,5.9,54
+575652432,Laura,Vazquez,sexto anio,tesis,5.6,4.5,4.4,61
+322115041,Lucia,Perez,sexto anio,practica,4.5,1.8,4.5,51
+338741579,Lucia,Perez,sexto anio,practica,2.7,1.1,5.1,73
+075610334,Laura,Rodriguez,sexto anio,practica,6.8,1.8,3.4,67
+062630115,Ana,Garcia,sexto anio,practica,3.0,5.0,4.8,88
+811294590,Luis,Sanchez,sexto anio,practica,6.0,3.3,6.7,86
+361043911,Maria,Lopez,sexto anio,practica,1.2,5.9,2.2,49
+606353328,Pedro,Lopez,sexto anio,practica,4.5,7.0,4.9,69
+861792886,Carlos,Rodriguez,sexto anio,practica,1.9,3.2,5.5,88
+270152269,Maria,Lopez,sexto anio,practica,1.9,7.0,2.8,55
+234725889,Juan,Gonzalez,sexto anio,practica,6.6,6.7,4.8,80
+143919280,Pedro,Perez,sexto anio,practica,5.2,4.0,4.1,74
+236975525,Carlos,Perez,sexto anio,practica,2.4,2.3,6.2,69
+537233343,Lucia,Perez,sexto anio,practica,1.8,1.2,4.1,78
+932094865,Sofia,Gonzalez,sexto anio,practica,5.0,1.4,2.1,56
+316678651,Juan,Lopez,sexto anio,practica,1.3,3.1,2.1,86
+048717045,Luis,Garcia,sexto anio,practica,3.1,6.9,2.2,66
+538738235,Luis,Perez,sexto anio,practica,2.9,4.4,2.5,67
+342259523,Maria,Lopez,sexto anio,practica,4.3,1.3,3.9,61
+769096435,Laura,Garcia,sexto anio,practica,3.1,4.0,6.0,56
+845107605,Juan,Lopez,sexto anio,practica,1.6,4.0,3.3,49

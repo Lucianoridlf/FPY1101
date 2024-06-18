@@ -1,0 +1,640 @@
+[
+    {
+        "notas": {
+            "nota1": "nota1",
+            "nota2": "nota2",
+            "nota3": "nota3"
+        },
+        "nombre": "nombre",
+        "apellido": "apellido",
+        "asignatura": "asignatura",
+        "asistencia_final": "asistencia_final"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "6.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "asignatura": "Matem\u00e1ticas",
+        "asistencia_final": "75"
+    },
+    {
+        "notas": {
+            "nota1": "5.0",
+            "nota2": "5.5",
+            "nota3": "5.0"
+        },
+        "nombre": "Mar\u00eda",
+        "apellido": "G\u00f3mez",
+        "asignatura": "Ciencias",
+        "asistencia_final": "67"
+    },
+    {
+        "notas": {
+            "nota1": "6.5",
+            "nota2": "6.0",
+            "nota3": "6.8"
+        },
+        "nombre": "Pedro",
+        "apellido": "L\u00f3pez",
+        "asignatura": "Ingl\u00e9s",
+        "asistencia_final": "80"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Ana",
+        "apellido": "Rodr\u00edguez",
+        "asignatura": "Historia",
+        "asistencia_final": "55"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "5.7",
+            "nota3": "6.5"
+        },
+        "nombre": "Luis",
+        "apellido": "Mart\u00ednez",
+        "asignatura": "Geograf\u00eda",
+        "asistencia_final": "72"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Sof\u00eda",
+        "apellido": "Hern\u00e1ndez",
+        "asignatura": "Arte",
+        "asistencia_final": "85"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Carlos",
+        "apellido": "Ram\u00edrez",
+        "asignatura": "Biolog\u00eda",
+        "asistencia_final": "62"
+    },
+    {
+        "notas": {
+            "nota1": "6.5",
+            "nota2": "6.0",
+            "nota3": "6.8"
+        },
+        "nombre": "Laura",
+        "apellido": "D\u00edaz",
+        "asignatura": "Qu\u00edmica",
+        "asistencia_final": "78"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Andr\u00e9s",
+        "apellido": "Torres",
+        "asignatura": "F\u00edsica",
+        "asistencia_final": "50"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "5.7",
+            "nota3": "6.5"
+        },
+        "nombre": "Valeria",
+        "apellido": "Castro",
+        "asignatura": "Educaci\u00f3n F\u00edsica",
+        "asistencia_final": "69"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Javier",
+        "apellido": "Ruiz",
+        "asignatura": "Literatura",
+        "asistencia_final": "77"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Isabel",
+        "apellido": "Molina",
+        "asignatura": "Econom\u00eda",
+        "asistencia_final": "61"
+    },
+    {
+        "notas": {
+            "nota1": "5.0",
+            "nota2": "5.5",
+            "nota3": "5.0"
+        },
+        "nombre": "Daniel",
+        "apellido": "S\u00e1nchez",
+        "asignatura": "Inform\u00e1tica",
+        "asistencia_final": "84"
+    },
+    {
+        "notas": {
+            "nota1": "6.5",
+            "nota2": "6.0",
+            "nota3": "6.8"
+        },
+        "nombre": "Marta",
+        "apellido": "Navarro",
+        "asignatura": "Sociolog\u00eda",
+        "asistencia_final": "56"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Roberto",
+        "apellido": "Garc\u00eda",
+        "asignatura": "Psicolog\u00eda",
+        "asistencia_final": "79"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "5.7",
+            "nota3": "6.5"
+        },
+        "nombre": "Luc\u00eda",
+        "apellido": "Rojas",
+        "asignatura": "Dibujo T\u00e9cnico",
+        "asistencia_final": "63"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Gabriel",
+        "apellido": "Sosa",
+        "asignatura": "M\u00fasica",
+        "asistencia_final": "71"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Alejandra",
+        "apellido": "Morales",
+        "asignatura": "Religi\u00f3n",
+        "asistencia_final": "88"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Diego",
+        "apellido": "Paz",
+        "asignatura": "Filosof\u00eda",
+        "asistencia_final": "58"
+    },
+    {
+        "notas": {
+            "nota1": "5.0",
+            "nota2": "5.5",
+            "nota3": "5.0"
+        },
+        "nombre": "Carolina",
+        "apellido": "Rodr\u00edguez",
+        "asignatura": "Geometr\u00eda",
+        "asistencia_final": "46"
+    },
+    {
+        "notas": {
+            "nota1": "6.5",
+            "nota2": "6.0",
+            "nota3": "6.8"
+        },
+        "nombre": "Fernando",
+        "apellido": "Ch\u00e1vez",
+        "asignatura": "Programaci\u00f3n",
+        "asistencia_final": "70"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Camila",
+        "apellido": "Flores",
+        "asignatura": "Ingl\u00e9s Avanzado",
+        "asistencia_final": "83"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Mateo",
+        "apellido": "Rivera",
+        "asignatura": "Matem\u00e1ticas Aplicadas",
+        "asistencia_final": "75"
+    },
+    {
+        "notas": {
+            "nota1": "5.0",
+            "nota2": "5.5",
+            "nota3": "5.0"
+        },
+        "nombre": "Sara",
+        "apellido": "Ju\u00e1rez",
+        "asignatura": "Ciencias Ambientales",
+        "asistencia_final": "54"
+    },
+    {
+        "notas": {
+            "nota1": "6.5",
+            "nota2": "6.0",
+            "nota3": "6.8"
+        },
+        "nombre": "Nicol\u00e1s",
+        "apellido": "G\u00f3ngora",
+        "asignatura": "Historia del Arte",
+        "asistencia_final": "66"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Valentina",
+        "apellido": "Silva",
+        "asignatura": "Geograf\u00eda Humana",
+        "asistencia_final": "90"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "5.7",
+            "nota3": "6.5"
+        },
+        "nombre": "Juanita",
+        "apellido": "Romero",
+        "asignatura": "Arquitectura",
+        "asistencia_final": "59"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Antonio",
+        "apellido": "Santana",
+        "asignatura": "Escultura",
+        "asistencia_final": "74"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Adriana",
+        "apellido": "Vargas",
+        "asignatura": "Pintura",
+        "asistencia_final": "57"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Ricardo",
+        "apellido": "Mendoza",
+        "asignatura": "Danza",
+        "asistencia_final": "86"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "5.7",
+            "nota3": "6.5"
+        },
+        "nombre": "Paula",
+        "apellido": "Herrera",
+        "asignatura": "Teatro",
+        "asistencia_final": "68"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Mart\u00edn",
+        "apellido": "Peralta",
+        "asignatura": "Cine",
+        "asistencia_final": "52"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Victoria",
+        "apellido": "Guzm\u00e1n",
+        "asignatura": "Televisi\u00f3n",
+        "asistencia_final": "73"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Manuel",
+        "apellido": "Cabrera",
+        "asignatura": "Radio",
+        "asistencia_final": "87"
+    },
+    {
+        "notas": {
+            "nota1": "6.5",
+            "nota2": "6.0",
+            "nota3": "6.8"
+        },
+        "nombre": "Julia",
+        "apellido": "Serrano",
+        "asignatura": "Periodismo",
+        "asistencia_final": "60"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Hugo",
+        "apellido": "Reyes",
+        "asignatura": "Publicidad",
+        "asistencia_final": "81"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Ana Mar\u00eda",
+        "apellido": "Flores",
+        "asignatura": "Marketing",
+        "asistencia_final": "64"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Ernesto",
+        "apellido": "S\u00e1nchez",
+        "asignatura": "Estad\u00edstica",
+        "asistencia_final": "89"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "5.7",
+            "nota3": "6.5"
+        },
+        "nombre": "B\u00e1rbara",
+        "apellido": "Mart\u00ednez",
+        "asignatura": "Finanzas",
+        "asistencia_final": "65"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Arturo",
+        "apellido": "P\u00e9rez",
+        "asignatura": "Contabilidad",
+        "asistencia_final": "76"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Lucas",
+        "apellido": "G\u00f3mez",
+        "asignatura": "Econom\u00eda Internacional",
+        "asistencia_final": "53"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Renata",
+        "apellido": "Rivero",
+        "asignatura": "Relaciones Internacionales",
+        "asistencia_final": "72"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "5.7",
+            "nota3": "6.5"
+        },
+        "nombre": "Ismael",
+        "apellido": "Rodr\u00edguez",
+        "asignatura": "Cooperaci\u00f3n Internacional",
+        "asistencia_final": "82"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Alicia",
+        "apellido": "Soto",
+        "asignatura": "Derecho Internacional",
+        "asistencia_final": "47"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Gonzalo",
+        "apellido": "Ortega",
+        "asignatura": "Derechos Humanos",
+        "asistencia_final": "79"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Lorena",
+        "apellido": "Molina",
+        "asignatura": "Arbitraje",
+        "asistencia_final": "55"
+    },
+    {
+        "notas": {
+            "nota1": "6.5",
+            "nota2": "6.0",
+            "nota3": "6.8"
+        },
+        "nombre": "Agust\u00edn",
+        "apellido": "Fern\u00e1ndez",
+        "asignatura": "Medicina",
+        "asistencia_final": "68"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Julieta",
+        "apellido": "L\u00f3pez",
+        "asignatura": "Pediatr\u00eda",
+        "asistencia_final": "71"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Camilo",
+        "apellido": "Su\u00e1rez",
+        "asignatura": "Cardiolog\u00eda",
+        "asistencia_final": "50"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Valeria",
+        "apellido": "Navarro",
+        "asignatura": "Neurolog\u00eda",
+        "asistencia_final": "87"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "5.7",
+            "nota3": "6.5"
+        },
+        "nombre": "Samuel",
+        "apellido": "Garc\u00eda",
+        "asignatura": "Geriatr\u00eda",
+        "asistencia_final": "66"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Montserrat",
+        "apellido": "Rojas",
+        "asignatura": "Psiquiatr\u00eda",
+        "asistencia_final": "83"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Diego",
+        "apellido": "Mendoza",
+        "asignatura": "Farmacolog\u00eda",
+        "asistencia_final": "57"
+    },
+    {
+        "notas": {
+            "nota1": "4.5",
+            "nota2": "5.0",
+            "nota3": "4.2"
+        },
+        "nombre": "Sof\u00eda",
+        "apellido": "\u00c1lvarez",
+        "asignatura": "Biomedicina",
+        "asistencia_final": "80"
+    },
+    {
+        "notas": {
+            "nota1": "6.5",
+            "nota2": "6.0",
+            "nota3": "6.8"
+        },
+        "nombre": "Esteban",
+        "apellido": "Mart\u00ednez",
+        "asignatura": "Bioqu\u00edmica",
+        "asistencia_final": "74"
+    },
+    {
+        "notas": {
+            "nota1": "5.5",
+            "nota2": "5.0",
+            "nota3": "5.8"
+        },
+        "nombre": "Victoria",
+        "apellido": "Herrera",
+        "asignatura": "Biotecnolog\u00eda",
+        "asistencia_final": "69"
+    },
+    {
+        "notas": {
+            "nota1": "6.0",
+            "nota2": "6.5",
+            "nota3": "6.3"
+        },
+        "nombre": "Roberto",
+        "apellido": "Jim\u00e9nez",
+        "asignatura": "Ingenier\u00eda Gen\u00e9tica",
+        "asistencia_final": "56"
+    }
+]
