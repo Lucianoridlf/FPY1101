@@ -25,9 +25,11 @@ def parity(num):
     """
 
 def number_average(number_list):
-    total = 0
+    cont = 0
+    suma = 0
     for number in number_list:
-        total += number
-    return (total) / len(number_list)
+        suma += number
+        cont +=1
+    return (suma) / cont
 
         
